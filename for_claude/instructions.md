@@ -1,0 +1,28 @@
+- I want you to help me develop PRDs for a brand new interactive landing page for Grynvault.
+- I want the landing page to showcase what we’re all about.
+- I want the landing page to funnel users to try out our technology.
+- I want users to sign up to earn points and get in line for funds, targeting $500 K or 10 BTC per month.
+- I want there to be transparency in our platform, almost like an orderbook for supply and demand.
+- I want users to be able to select their terms while also competing for terms.
+- I want to funnel excess demand by capturing user expectations such as custody or non‑custody.
+- I want to funnel excess demand by capturing term lengths.
+- I want to funnel excess demand by capturing KYC or non‑KYC preferences.
+- I want to funnel excess demand by capturing expected currency or stablecoin.
+- I want to funnel excess demand by capturing high LTV versus liquidation risk versus no liquidation.
+- I want to funnel excess demand by capturing bridged BTC versus L1 BTC.
+- I want to funnel excess demand by capturing wallet type: own wallet, browser wallet, new wallet, multisig, or preimage (us).
+- I want to aggregate the following competitors:
+  - Xapo Bank (https://www.xapobank.com/en)
+  - Maple Finance (https://maple.finance/)
+  - Lava (https://www.lava.xyz/)
+  - Debifi (https://debifi.com/)
+  - Firefish (https://firefish.io/)
+  - HodlHodl (https://hodlhodl.com/)
+  - Ledn (https://ledn.io/)
+  - Nexo (https://nexo.com/borrow)
+  - Bima Money (https://bima.money/)
+  - Sovryn (https://sovryn.com/)
+  - Lombard Finance (https://www.lombard.finance/app/vaults/)
+  - Aave Markets (https://app.aave.com/markets/)
+  - Morpho Borrow (https://app.morpho.org/ethereum/borrow)
+- I want you to stay up to date on each competitor and their features as we go through this.
